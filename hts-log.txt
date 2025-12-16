@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 20 May 2023 12:30:14 at https://wellconcept.co/html/energix/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://wellconcept.co/html/energix/ -O1 "C:\Users\Rohit\OneDrive\Desktop\Energix" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:31:32	Error: 	"Not Found" (404) at link https://wellconcept.co/html/energix/assets/css/owl.video.play.png (from https://wellconcept.co/html/energix/assets/css/owl.carousel.min.css)
+12:31:32	Error: 	"Not Found" (404) at link https://wellconcept.co/html/energix/assets/css/ajax-loader.gif (from https://wellconcept.co/html/energix/assets/css/slick-theme.css)
+12:31:32	Error: 	"Not Found" (404) at link https://wellconcept.co/html/energix/assets/css/fonts/slick.eot (from https://wellconcept.co/html/energix/assets/css/slick-theme.css)
+12:31:32	Error: 	"Not Found" (404) at link https://wellconcept.co/html/energix/assets/css/fonts/slick.eot? (from https://wellconcept.co/html/energix/assets/css/slick-theme.css)
+12:31:32	Error: 	"Not Found" (404) at link https://wellconcept.co/html/energix/assets/css/fonts/slick.woff (from https://wellconcept.co/html/energix/assets/css/slick-theme.css)
+12:31:32	Error: 	"Not Found" (404) at link https://wellconcept.co/html/energix/assets/css/fonts/slick.ttf (from https://wellconcept.co/html/energix/assets/css/slick-theme.css)
+12:31:32	Error: 	"Not Found" (404) at link https://wellconcept.co/html/energix/assets/css/fonts/slick.svg (from https://wellconcept.co/html/energix/assets/css/slick-theme.css)
+12:31:32	Warning: 	Retry after error -4 (Incorrect length (0 Bytes, 45052 expected)) at link https://wellconcept.co/html/energix/assets/img/blog-details-1.jpg (from https://wellconcept.co/html/energix/blog-details.html)
+12:31:32	Warning: 	Retry after error -4 (No data (connection closed)) at link https://wellconcept.co/html/energix/assets/img/blog-details-2.jpg (from https://wellconcept.co/html/energix/blog-details.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 21 seconds : 143 links scanned, 133 files written (11271264 bytes overall) [9763633 bytes received at 120538 bytes/sec], 2210828 bytes transferred using HTTP compression in 36 files, ratio 29%, 11.0 requests per connection
+(7 errors, 2 warnings, 0 messages)
